@@ -1,4 +1,4 @@
-'use strict';//Modo restrito
+'use strict';//Modo restrito hj
 //Consumindo API de CEP, do ViaCep
 //https://viacep.com.br/
 
