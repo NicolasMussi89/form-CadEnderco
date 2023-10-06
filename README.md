@@ -33,17 +33,21 @@ Quando o usuário clica fora do campo "CEP", o sistema consulta a API ViaCEP par
 
 ### Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Via CEP
-- VSCODE
-- Github
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+<code><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></code>
+
+<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></code>
+
 
 ## Autor
 
 Este repositório foi criado por [Nicolas](https://github.com/NicolasMussi89).
-![image](mage.png.mp4)
+
 
 ## Como Usar
 
@@ -55,5 +59,7 @@ Este repositório foi criado por [Nicolas](https://github.com/NicolasMussi89).
 ## Observações
 
 Certifique-se de que o JavaScript está habilitado em seu navegador para que a consulta de CEP funcione corretamente.
+
+![image](mage.gif.gif)
 
 * [Nicolas](https://github.com/NicolasMussi89)
