@@ -34,12 +34,16 @@ Quando o usuário clica fora do campo "CEP", o sistema consulta a API ViaCEP par
 ### Tecnologias Utilizadas
 
 - HTML5
-- CSS (Bootstrap)
+- CSS3
 - JavaScript
+- Via CEP
+- VSCODE
+- Github
 
 ## Autor
 
 Este repositório foi criado por [Nicolas](https://github.com/NicolasMussi89).
+![image](mage.png.mp4)
 
 ## Como Usar
 
