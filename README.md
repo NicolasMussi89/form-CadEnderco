@@ -31,6 +31,8 @@ Este é um exemplo simples de um formulário HTML para cadastro de endereços. O
 
 Quando o usuário clica fora do campo "CEP", o sistema consulta a API ViaCEP para preencher automaticamente os campos de rua, bairro, cidade e estado com base no CEP fornecido. Se o CEP for inválido ou não for encontrado, uma mensagem de erro será exibida.
 
+![image](cep-correto.gif)
+
 ### Tecnologias Utilizadas
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
